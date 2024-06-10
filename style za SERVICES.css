@@ -1,0 +1,56 @@
+#services {
+    width: 100vw;
+    height: auto; 
+    display: flex;
+    flex-direction: column;
+    padding: 20px; 
+}
+.myservices {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px; 
+}
+.grupa_zanimanja {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.prva_grupa, .druga_grupa {
+    display: flex;
+    flex-direction: row ; 
+    align-items: center;
+    justify-content: center;
+    gap: 100px; 
+    margin-bottom: 30px; 
+}
+.zanimanje_box {
+    background-color: rgb(3, 0, 17);
+    width: 80%; 
+    max-width: 300px; 
+    height: auto; 
+    margin-bottom: 30px;
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+.slikica {
+    margin-left: 80px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px; 
+    width: 100px; 
+    height: 100px;
+}
+.h3_s {
+    color: white;
+    font-size: 24px; 
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+.p_s {
+    color: rgba(122, 122, 122, 0.774);
+    font-size: 14px; 
+    text-align: center; 
+}

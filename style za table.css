@@ -1,0 +1,53 @@
+
+@media (max-width: 1024px) {
+    .conteiner {
+        margin-top: 200px;
+    }
+
+    .naslov {
+        font-size: 24px;
+    }
+
+    .zanimanje {
+        font-size: 22px;
+    }
+
+    .prva_grupa, .druga_grupa {
+        gap: 10px;
+    }
+
+    .grupa_about {
+        margin-top: 20px;
+    }
+
+    .about-parent {
+        flex-direction: column;
+    }
+
+    .pored_slike {
+        margin-left: 0;
+    }
+
+    .kratke_inf {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .puljke {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .grupa_skills {
+        flex-direction: column;
+    }
+
+    .skill_box {
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+    .form-group{
+        width: 85%;
+      }
+    
+}

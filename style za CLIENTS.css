@@ -1,0 +1,59 @@
+#clients {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.myclients {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+.box_apostrof {
+    width: 50px;
+    height: 60px;
+    border: 1px solid rgb(184, 100, 31);
+    background-color: rgb(184, 100, 31);
+    align-self: center;
+    margin-bottom: 20px; 
+}
+.apostrof {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+}
+.text_klijenta {
+    align-self: center;
+    width: 90%; 
+}
+.klijenta {
+    color: rgba(110, 110, 110, 0.938);
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.slika_klijenta {
+    align-self: center;
+    text-align: center;
+}
+.klijent {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.h4_ime {
+    font-size: 18px;
+    color: white;
+    margin-top: 15px;
+}
+.marketing {
+    margin-top: 80px;
+    align-self: center;
+}
+.marka {
+    margin-right: 50px;
+}

@@ -1,0 +1,274 @@
+@media only screen and (max-width: 768px) {
+    *{
+        max-width: 100vw;
+        scroll-behavior: smooth;
+    }
+    
+    .master{
+        overflow: hidden;
+
+    }
+    .box5{
+        margin-left: 0px;
+        padding: 0px;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+    }
+    .box{
+        margin: 8px;
+        padding: 0px;
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .Namirimg{
+        width: 100%;
+    }
+
+    #home{
+        height: 150vw;
+    }
+    .conteiner {
+        margin-top: 300px; 
+    }
+    .mreza{
+        margin-top: 10px;
+    }
+    .naslov {
+        margin-top: 10px;
+        font-size: 25px; 
+    }
+    .zanimanje {
+        width: 260px; 
+        font-size: 20px;
+    }
+    .klik {
+        margin-top: 50px; 
+    }
+    .img {
+        width: 50px; 
+        height: 50px; 
+        font-size: 30px; 
+    }
+
+    #services{
+        height: 390vw;
+        margin: 0px;
+        padding: 0px;
+    }
+    .myservices {
+        font-size: 24px; 
+        margin-bottom: 20px; 
+    }
+    .slikica{
+        width: 80px;
+        height: 80px;
+    }
+    .prva_grupa, .druga_grupa {
+        flex-direction: column; 
+        gap: 10px;
+    }
+    .zanimanje_box {
+        width: 90%; 
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+    .h3_s {
+        font-size: 20px; 
+        margin-bottom: 15px; 
+    }
+    .p_s {
+        font-size: 14px; 
+    }
+
+    .about-parent{
+        display: flex;
+        flex-direction: column;
+    }
+    .Namirimg{
+        width: 200px;
+        height: 60vw;
+    }
+    .about {
+        font-size: 24px; 
+        margin-top: 100px;
+        margin-bottom: 30px;
+    }
+    .pored_slike {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .kratke_inf {
+        flex-direction: column;
+        gap: 5px;
+    }
+    .name_phone, .email_instagram {
+        align-items: center;
+    }
+    .puljke {
+        flex-direction: column;
+        gap: 5px;
+    }
+    .ispod_abouta {
+        margin-top: 50px;
+    }
+    .boz {
+        width: 90%;
+    }
+    .p_abouta {
+        font-size: 20px;
+        padding: 10px;
+    }
+    .p_boz {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+
+
+    .myskills {
+        font-size: 24px; 
+        margin-top: 50px; 
+    }
+    .grupa_skills {
+        display: flex;
+        flex-direction: column;
+        width: 100%; 
+    }
+    .h5 {
+        font-size: 20px; 
+    }
+    .p5_prvi, .p5_drugi {
+        font-size: 16px; 
+        width: 91%;
+    }
+    .kontakt_puljka {
+        width: 50%;
+    }
+    .desni_dio {
+        width: 100%; 
+    }
+    .crta {
+        margin-bottom: 15px;
+    }
+    .popunjena-crtica1 {
+        width: 80%;
+    }
+    .popunjena-crtica2 {
+        width: 90%;
+    }
+    .popunjena-crtica3 {
+        width: 70%;
+    }
+    .popunjena-crtica4 {
+        width: 60%;
+    }
+
+
+
+
+
+
+
+    .myclients {
+        font-size: 28px;
+        margin-top: 50px;
+    }
+    .klijenta {
+        font-size: 16px;
+        width: 100%; 
+    }
+    .klijent {
+        width: 100px; 
+        height: 100px; 
+    }
+    .h4_ime {
+        font-size: 16px; 
+    }
+
+
+
+
+
+
+
+    #contact{
+        max-width: 100vw;
+    }
+    .informacije{
+        gap: 10px;
+      }
+      .glavni_info{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+      .conteiner{
+        margin-left: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .veza{
+        display: flex;
+        gap: 20px;
+      }
+      .h2_contact {
+        font-size: 20px;
+      }
+      .glavni_info {
+        gap: 50px;
+        margin-top: 10px;
+      }
+      .informacije {
+        gap: 30px;
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+      }
+      .info-grupa1{
+        gap: 100px;
+      }
+      .h1_info {
+        font-size: 20px;
+      }
+      .info {
+        font-size: 16px;
+      }
+      .h1_podnaslov {
+        font-size: 24px;
+      }
+      .img2 {
+        width: 30px;
+        height: 30px;
+      }
+      .ig2 {
+        font-size: 18px;
+      }
+      .form-header {
+        font-size: 20px;
+      }
+      .submit-button button {
+        font-size: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .form-group{
+        width: 85%;
+      }
+
+      #contact{
+        width: 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+}

@@ -1,0 +1,109 @@
+#skills {
+    max-width: 1200px;
+    width: 100vw;
+    height: auto; 
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.myskills {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 90px;
+}
+.grupa_skills {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    width: 99vw; 
+    margin: 0;
+}
+.h5 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.p5_prvi, .p5_drugi {
+    color: rgba(122, 122, 122, 0.774);
+    font-size: 18px; 
+    text-align: center;
+    margin-bottom: 15px;
+}
+.kontakt_puljka {
+    border: 2px solid white;
+    width: 30%; 
+    height: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a_puljka2{
+    display: flex;
+    justify-content: center;
+}
+.kontakt {
+    color: white;
+    text-align: center;
+    margin: 0; 
+}
+.lijevi_dio {
+    margin-right: 0;
+    margin-bottom: 20px; 
+}
+.desni_dio {
+    margin-left: 20px; 
+    display: flex;
+    flex-direction: column;
+    width: 100%; 
+}
+.h2 {
+    color: white;
+    text-align: center; 
+    margin-bottom: 10px;
+}
+.crta {
+    height: 2px;
+    background-color: rgb(3, 0, 18);
+    position: relative;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.popunjena-crtica1 {
+    height: 100%;
+    width: 80%;
+    background-color: rgb(211, 84, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: width 1s ease; 
+}
+.popunjena-crtica2 {
+    height: 100%;
+    width: 90%;
+    background-color: rgb(211, 84, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: width 1s ease; 
+}
+.popunjena-crtica3 {
+    height: 100%;
+    width: 70%;
+    background-color: rgb(211, 84, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: width 1s ease; 
+}
+.popunjena-crtica4 {
+    height: 100%;
+    width: 60%;
+    background-color: rgb(211, 84, 0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: width 1s ease; 
+}
